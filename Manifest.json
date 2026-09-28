@@ -1,0 +1,11 @@
+{
+  "name": "ME-Rail-App",
+  "short_name": "ME-Rail",
+  "description": "Reisekosten und Verpflegungsmehraufwand",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1565c0",
+  "lang": "de"
+}
